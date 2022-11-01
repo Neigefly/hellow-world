@@ -1,3 +1,3 @@
 #include<stdio.h>
 void main()
-printf("hallow world")
+printf("hello world");
